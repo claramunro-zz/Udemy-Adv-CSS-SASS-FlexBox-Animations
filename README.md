@@ -28,28 +28,20 @@ This is a repository for the Udemy course I followed along with.
 ## Natours Project
 [![Image from Gyazo](https://i.gyazo.com/c6915c0624a5f919c113fcc64f80db66.gif)](https://gyazo.com/c6915c0624a5f919c113fcc64f80db66)
 
+<table>
+    <td><img src="/images/netours1.gif" /></td>
+   <td><img src="/images/natours2.gif" /></td>
+    <td><img src="/images/natours3.gif" /></td>
+</table>
 
-
-<a href="https://gyazo.com/71f8ff9dffb34e0c28992cd2e2ad17cc"><img src="https://i.gyazo.com/71f8ff9dffb34e0c28992cd2e2ad17cc.gif" alt="Image from Gyazo" width="960"/></a>
-
-[![Image from Gyazo](https://i.gyazo.com/71f8ff9dffb34e0c28992cd2e2ad17cc.gif)](https://gyazo.com/71f8ff9dffb34e0c28992cd2e2ad17cc)
-
-[![Image from Gyazo](https://i.gyazo.com/ea79d8339069031c22a13bb17eefa9e7.gif)](https://gyazo.com/ea79d8339069031c22a13bb17eefa9e7)
-
-[![Image from Gyazo](https://i.gyazo.com/cdd1802ef9633eb61c1cb80fb0da649d.gif)](https://gyazo.com/cdd1802ef9633eb61c1cb80fb0da649d)
-
-
-[![Image from Gyazo](https://i.gyazo.com/71f8ff9dffb34e0c28992cd2e2ad17cc.gif)](https://gyazo.com/71f8ff9dffb34e0c28992cd2e2ad17cc)
-
-[![Image from Gyazo](https://i.gyazo.com/ea79d8339069031c22a13bb17eefa9e7.gif)](https://gyazo.com/ea79d8339069031c22a13bb17eefa9e7)
-
-[![Image from Gyazo](https://i.gyazo.com/cdd1802ef9633eb61c1cb80fb0da649d.gif)](https://gyazo.com/cdd1802ef9633eb61c1cb80fb0da649d)
 
 
 ## Nexter Project
 [![Image from Gyazo](https://i.gyazo.com/dd4565917610d10d340acb99d5fbf6ca.gif)](https://gyazo.com/dd4565917610d10d340acb99d5fbf6ca)
 
-[![Image from Gyazo](https://i.gyazo.com/bb8ec42a0330825c12796fb171327bf4.gif)](https://gyazo.com/bb8ec42a0330825c12796fb171327bf4)
+<table>
+    <td><img src="/images/nexter2.gif" /></td>
+</table>
 
 
 ## Trillo Project
