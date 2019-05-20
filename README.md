@@ -1,6 +1,8 @@
 # Udemy Adv CSS SASS GRID FLEXBOX
 
-This is a repository for the Udemy course I followed along with.
+This is a repository for the Udemy course I followed along with. 
+
+https://www.udemy.com/advanced-css-and-sass/
 
 * **CSS techniques** clip-path, background-clip, mask-image, background-blend-mode, shape-outside, filter, backdrop-filter, object-fit, transform, column-count, hyphens, perspective, calc() and custom CSS properties
 * **CSS animations** @keyframes, animation & transition
