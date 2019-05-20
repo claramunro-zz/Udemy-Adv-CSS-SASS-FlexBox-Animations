@@ -40,14 +40,15 @@ This is a repository for the Udemy course I followed along with.
 [![Image from Gyazo](https://i.gyazo.com/dd4565917610d10d340acb99d5fbf6ca.gif)](https://gyazo.com/dd4565917610d10d340acb99d5fbf6ca)
 
 <table>
-    <td><img src="/images/nexter2.gif" /></td>
+    <td><img src="/images/nexter1.gif" /></td>
 </table>
 
 
 ## Trillo Project
 
-[![Image from Gyazo](https://i.gyazo.com/bc4425036a6e988021c8f722a29a2510.gif)](https://gyazo.com/bc4425036a6e988021c8f722a29a2510)
-
+<table>
+    <td><img src="/images/trillo1.gif" /></td>
+</table>
 
 ### Full Page Images
 
